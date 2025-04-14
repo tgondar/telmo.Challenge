@@ -3,3 +3,14 @@ obj/*
 /.vs/Backend.Challenge/CopilotIndices/17.13.444.19527
 /.vs/telmo.Challenge/v17
 /.vs
+/src/Application/bin/Debug/net8.0
+/src/Application/obj
+/src/Domain/bin/Debug/net8.0
+/src/Domain/obj
+/src/Infrastructure/bin/Debug/net8.0
+/src/Infrastructure/obj
+/src/Tests/bin/Debug/net8.0
+/src/Tests/obj
+/src/web/.vs
+/src/web/bin/Debug/net8.0
+/src/web/obj
