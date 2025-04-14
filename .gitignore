@@ -14,3 +14,4 @@ obj/*
 /src/web/.vs
 /src/web/bin/Debug/net8.0
 /src/web/obj
+/src/web/wwwroot
